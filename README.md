@@ -1,7 +1,7 @@
 <h1 align="center"> Social Links </h1>
 
 <p align="center">
-O Projeto Social Links é uma plataforma versátil de gerenciamento de links criada para simplificar a maneira como você compartilha suas redes sociais e recursos online com seu público.
+O Projeto Social Links é um gerenciador de links criado para simplificar a maneira como você compartilha suas redes sociais e recursos online com seu público.
 </p>
 
 <p align="center">
