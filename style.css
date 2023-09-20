@@ -5,6 +5,7 @@
 }
 :root {
   --text-color: #d3d2d2;
+  --bg-url-webp: url(./assets/bg-mobile.webp);
   --bg-url: url(./assets/bg-mobile.jpg);
   --strok-color: rgba(255, 255, 255, 0.3);
   --strok-color-hover: #d3d2d2;
@@ -24,6 +25,7 @@
   --text-color: #1b1c20;
   --font-color: #1E1F23;
   --font-color-hover: #3737db;
+  --bg-url-webp: url(./assets/bg-mobile-light.webp);
   --bg-url: url(./assets/bg-mobile-light.jpg);
   --strok-color: rgba(27, 28, 32, 0.50);
   --strok-color-hover: rgba(55, 55, 219, 0.5);
@@ -37,6 +39,7 @@
 }
 body {
   /* background: color image repeat position/size */
+  background: var(--bg-url-webp) no-repeat top center/cover;
   background: var(--bg-url) no-repeat top center/cover;
   height: 100vh;
 }
