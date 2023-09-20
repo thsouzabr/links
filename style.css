@@ -39,6 +39,7 @@
 }
 body {
   /* background: color image repeat position/size */
+  transition: background-image 0.5s ease;
   background: var(--bg-url-webp) no-repeat top center/cover;
   background: var(--bg-url) no-repeat top center/cover;
   height: 100vh;
